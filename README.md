@@ -1,4 +1,4 @@
-<img width="1879" height="972" alt="Screenshot 2026-01-19 124011" src="https://github.com/user-attachments/assets/4de32e50-f37a-4704-b52a-c7c415ee1141" /><img width="1873" height="966" alt="Screenshot 2026-01-19 123655" src="https://github.com/user-attachments/assets/2ddea6b4-c500-447b-8a8c-db9abdb1d3b4" /># Hệ Thống CRM Bán Hàng (CRM Sales System)
+# Hệ Thống CRM Bán Hàng (CRM Sales System)
 
 ## Giới thiệu
 Đây là hệ thống CRM bán hàng được xây dựng với mục tiêu quản lý quy trình bán hàng hiệu quả. Hệ thống bao gồm đầy đủ các chức năng cần thiết cho doanh nghiệp.
