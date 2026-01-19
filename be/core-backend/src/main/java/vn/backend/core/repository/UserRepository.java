@@ -94,7 +94,7 @@ public class UserRepository {
                         ROLE.NAME.as("role_name")
         );
         return  dslContext
-                .select(getUserFields())
+                .select(selectedFields)
                 .from(USER)
                 .leftJoin(ROLE).on(ROLE.ID.eq(USER.ROLE_ID))
                 .leftJoin(BRANCH).on(BRANCH.ID.eq(USER.BRANCH_ID))

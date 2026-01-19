@@ -412,12 +412,12 @@ export default function Sidebar() {
                     <span>Dịch vụ</span>
                   </NavLink>
                 </li>
-                {/* <li>
+                <li>
                   <NavLink to="/pipeline" className={activeTab === "pipeline" ? "active" : ""} onClick={() => handleTabClick("pipeline")}>
                     <i className="ti ti-timeline-event-exclamation"></i>
                     <span>Quy trình bán hàng</span>
                   </NavLink>
-                </li> */}
+                </li>
                 {/* <li>
                   <NavLink to="/project" className={activeTab === "project" ? "active" : ""} onClick={() => handleTabClick("project")}>
                     <i className="ti ti-atom-2"></i>

@@ -424,7 +424,7 @@ export default function Header() {
                 <img src={user.avatar || "assets/img/users/user-40.jpg"} className="rounded-circle" width="42" height="42" alt="Img" />
                 <div className="ms-2">
                   <p className="fw-medium text-dark mb-0">{user.name}</p>
-                  <span className="d-block fs-13">Tổng giám đốc</span>
+                  <span className="d-block fs-13">{user.roleName}</span>
                 </div>
               </div>
               <a href="profile-settings" className="dropdown-item">

@@ -8,6 +8,7 @@ interface UserState {
   avatar: string | null;
   token: string | null;
   roleId?: number | null;
+  roleName?: string | null;
 }
 
 const initialState: UserState = {
@@ -17,6 +18,8 @@ const initialState: UserState = {
   phone: null,
   avatar: null,
   token: null,
+  roleId: null,
+  roleName: null,
 };
 
 const userSlice = createSlice({
