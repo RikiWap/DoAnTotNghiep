@@ -1,0 +1,38 @@
+.custom-btn-close {
+  filter: brightness(0) saturate(100%) invert(20%) sepia(0%) saturate(0%) hue-rotate(190deg) brightness(90%) contrast(90%);
+}
+
+.avatar-placeholder {
+  width: 120px;
+  height: 120px;
+  font-size: 0.9rem;
+}
+
+.list-group-item {
+  border: none !important;
+  padding: 0.6rem 1rem;
+  font-size: 0.95rem;
+}
+
+.list-group-item strong {
+  width: 160px;
+  display: inline-block;
+  color: #495057;
+}
+
+.modal-content {
+  background-color: #fffdfc;
+}
+
+.badge.bg-success-subtle {
+  background-color: #e6f4ea;
+}
+
+.badge.bg-danger-subtle {
+  background-color: #fdecea;
+}
+
+.modal-body {
+  max-height: 70vh;
+  overflow-y: auto;
+}

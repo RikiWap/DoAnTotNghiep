@@ -1,0 +1,50 @@
+spring:
+  output:
+    ansi:
+      enabled: ALWAYS
+  datasource:
+    type: com.zaxxer.hikari.HikariDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: iamapooritstuden@gmail.com
+    password: "jvlx ipuh kxdv avyo"
+    properties:
+        mail:
+            smtp:
+            auth: true
+            starttls:
+                enable: true
+
+
+logging:
+  level:
+    org.springframework.security: DEBUG
+    org.jooq: DEBUG
+    vn.backend: DEBUG
+
+security:
+  enabled: true
+  jwt:
+    enabled: true
+    secret-key: Tuandeptraibodoithe@/~matkhaubimatsieumanh
+    header: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
+    expired-in: 15552000000
+
+minio:
+  endpoint: http://localhost:9000
+  bucket: ${MINIO_BUCKET:crm}
+  access-key: ${MINIO_ROOT_USER:minioadmin}
+  secret-key: ${MINIO_ROOT_PASSWORD:minioadmin}
+
+app:
+  name: Base Backend
+  version: 1.0.0
+system:
+  enabled-register: true
+  domain: http://localhost:9000

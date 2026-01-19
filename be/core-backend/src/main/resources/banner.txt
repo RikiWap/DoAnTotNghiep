@@ -1,0 +1,4 @@
+${AnsiStyle.BOLD}${AnsiColor.RED}ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ${AnsiColor.DEFAULT}
+${AnsiStyle.BOLD}${AnsiColor.BRIGHT_GREEN}        ✧˖° ${AnsiColor.RED}R ${AnsiColor.BLUE}E ${AnsiColor.YELLOW}A ${AnsiColor.MAGENTA}L ${AnsiColor.GREEN}M${AnsiColor.DEFAULT} ✧˖° ${AnsiColor.BRIGHT_GREEN} Spring Boot Application ${AnsiColor.BRIGHT_YELLOW}(${spring-boot.version})${AnsiColor.DEFAULT} ${AnsiColor.BRIGHT_GREEN} Founded By: Julytus
+${AnsiStyle.BOLD}${AnsiColor.RED}ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ${AnsiColor.DEFAULT}
+
